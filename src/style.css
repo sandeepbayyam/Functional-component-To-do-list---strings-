@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  width: max-content;
+  height:100%;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+button{
+  background-color: black;
+  color:aquamarine;
+  font-weight: bold;
+}
